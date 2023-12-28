@@ -1,0 +1,10 @@
+(-71.571955, -28.890052)|2006-09-14|{"type": "Other", "condition": 9, "price": 719642.92, "year_min": -1937, "year_max": -1837}|New National Gallery|2022-07-20|2025-01-04|283620
+(78.661055, 113.551186)|2002-12-24|{"type": "Houseware", "condition": 8, "price": 65385.93, "year_min": -5698, "year_max": -5598}|Metropolitan Museum of Art|2020-04-27|2026-05-10|437647
+(-22.720023, 43.584059)|2013-07-22|{"type": "Mummy", "condition": 0, "price": 745433.68, "year_min": -3559, "year_max": -3259}|American Museum of the Moving Image|2023-09-21|2027-12-16|453803
+(-15.716413, 168.107306)|2014-06-24|{"type": "Weapon", "condition": 0, "price": 676058.30, "year_min": -7284, "year_max": -7284}|Ethnological Museum|2023-01-09|2026-09-21|697213
+(-77.774751, 5.364221)|2013-09-11|{"type": "Mummy", "condition": 6, "price": 574780.57, "year_min": -4743, "year_max": -4443}|Art Institute of Chicago|2021-09-04|2027-04-08|688164
+(-81.233078, 37.628481)|2013-06-05|{"type": "Weapon", "condition": 5, "price": 631181.59, "year_min": -7425, "year_max": -7125}|Gardner Museum|2023-08-26|2027-05-14|115341
+(29.841136, -89.509127)|2000-09-10|{"type": "Artifact", "condition": 5, "price": 828087.62, "year_min": -3514, "year_max": -3414}|New-York Historical Society|2022-03-10|2024-04-21|102697
+(44.319784, 41.243086)|2015-11-23|{"type": "Houseware", "condition": 2, "price": 191190.23, "year_min": -8555, "year_max": -8355}|National Museum|2020-11-18|2027-12-21|613587
+(47.180956, 37.016666)|2012-11-17|{"type": "Other", "condition": 6, "price": 965345.01, "year_min": -3570, "year_max": -3470}|Zwinger|2022-12-14|2028-02-22|321894
+(-38.542477, -46.676590)|2016-07-03|{"type": "Sculpture", "condition": 9, "price": 477081.12, "year_min": -9329, "year_max": -8929}|Philadelphia Museum of Art|2022-11-12|2028-08-05|518633

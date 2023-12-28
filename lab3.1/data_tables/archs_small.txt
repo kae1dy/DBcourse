@@ -1,0 +1,10 @@
+Franco|Tyler|Mary|{"Archaeozoologist","Ceramologist"}|Iran|AHF3SC48CW61|2020-08-25|2025-07-21
+Villanueva|Silvia|Irma|{"Anthropologist","Field"}|Bouvet Island|A7ZBMFJEBZFN|2022-04-12|2026-07-19
+Leyva|Mariela|Liz|{"Marine","Ceramologist"}|Afghanistan|RTI7YKW0FFZ7|2022-05-07|2025-08-02
+Rubio|Briana|Damian|{"Field","Marine"}|France|PEXO9RZMWVAQ|2021-10-07|2024-03-22
+Riley|Yolanda|Fabiola|{"Anthropologist","Ceramologist"}|Italy|R7YEOYGDHTUQ|2023-05-16|2025-10-10
+Chen|Katherine|Holly|{"Field","Ceramologist"}|Dominica|RZGDKDY8HNRY|2019-05-10|2024-12-01
+Parra|Colleen|Trent|{"Archaeozoologist"}|Poland|RLISXN41658L|2021-10-16|2026-05-10
+Bernard|Kara|Fidel|{"Anthropologist"}|French Southern Territories|P7VYB2XYT4N0|2023-09-10|2024-06-19
+Cunningham|Shay|Molly|{"Archaeozoologist","Field","Anthropologist"}|Spain|A567GQ1KIKO2|2020-03-12|2026-04-12
+Clark|Lance|Connie|{"Field","Archaeozoologist"}|Central African Republic|PG8OO749NM0G|2020-07-19|2026-05-21
